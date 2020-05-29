@@ -5,13 +5,9 @@
 Set of notebooks for Will Hewitt's CS380 project at The University of Auckland. Can be used to train a UNet model 
 to segment echocardiography frames from the CAMUS dataset.
 
-### Audience
-This is meant for anyone in the RnD side. Meant as a playground for identifying which model would work best. 
-Specifically here, identify which ensemble model would work best
-### Conda Environment
-No special packages. Select the `heartlab` env from Kernel dropdown for the heartlab env.
 ### Data Sources
-This project uses the CAMUS dataset, but can be edited to use any. Data located at `data/camus/v1/`.
+CAMUS dataset.
+
 ### References
 
 1. Abdi et al. *GAN-Enhanced Conditional Echocardiogram Generation*. 2019.
