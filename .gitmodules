@@ -1,0 +1,3 @@
+[submodule "echo-generation"]
+	path = echo-generation
+	url = https://github.com/hewittwill/echo-generation.git
